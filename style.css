@@ -1,0 +1,24 @@
+.background {
+    background: linear-gradient(to bottom, #a9a9aa 0%, #8fe5ff 100%);
+}
+#idtext {
+    width: 1835px;
+    height: 550px;
+    background-color: rgb(243, 243, 243);
+    color: #000000;
+    border: 2px double black;
+}
+.header {
+    border: 4px double black;
+    text-align: center;
+}
+.footer {
+    border: 4px double black;
+    text-align: center;
+}
+.main {
+    border: 4px double black;
+}
+.form {
+    margin: 1%;
+}
